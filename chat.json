@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify what type of information this new field should collect (e.g., text, number, date)?\", \"option1\": \"Text (e.g., Name, Address)\", \"option2\": \"Number (e.g., Phone Number, Zip Code)\"}, {\"question 2\": \"Where should this new field be placed in relation to the existing fields on the form?\", \"option1\": \"Immediately after the current last field\", \"option2\": \"Between specific existing fields (please specify which)\"}], \"input_token_count\": 272, \"output_token_count\": 117, \"time_taken\": \"0:00:04.592746\"}",
+        "message_id": "guest16082024111139",
+        "timestamp": "16082024111147",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a nother field with yup",
         "message_id": "guest16082024111139",
