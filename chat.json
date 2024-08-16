@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'tye' field to be an input field for users or a display element within the app?\", \"option1\": \"Input field for users\", \"option2\": \"Display element within the app\"}, {\"question 2\": \"Should the 'tye' field be associated with any specific functionality or information within the app, such as user information or product details?\", \"option1\": \"Associated with user information\", \"option2\": \"Associated with product details\"}], \"input_token_count\": 571, \"output_token_count\": 112, \"time_taken\": \"0:00:03.534457\"}",
+        "message_id": "guest16082024104234",
+        "timestamp": "16082024104241",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with tye",
         "message_id": "guest16082024104234",
