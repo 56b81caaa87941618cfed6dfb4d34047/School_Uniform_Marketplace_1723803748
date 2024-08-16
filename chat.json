@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify what type of information the 'triwa' field will hold (e.g., text, number, date)?\", \"option1\": \"Text (e.g., name or description)\", \"option2\": \"Number (e.g., quantity or ID)\"}, {\"question 2\": \"Where in the app do you want the 'triwa' field added (e.g., on a specific form or page)?\", \"option1\": \"On the uniform order form\", \"option2\": \"On the main page as part of a filter/sort feature\"}], \"input_token_count\": 271, \"output_token_count\": 129, \"time_taken\": \"0:00:04.169853\"}",
+        "message_id": "guest16082024112623",
+        "timestamp": "16082024112630",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a search bar for quick uniform searches\", \"checked\": true}, {\"feature\": \"Implement filters for size, color, and grade level\", \"checked\": false}, {\"feature\": \"Insert a 'New Arrivals' section for the latest uniform designs\", \"checked\": true}, {\"feature\": \"Include a customer review section for user feedback on uniforms\", \"checked\": false}, {\"feature\": \"Add a 'Best Sellers' section to highlight popular items\", \"checked\": true}, {\"feature\": \"Integrate a feature for custom uniform requests\", \"checked\": false}], \"input_token_count\": 225, \"output_token_count\": 121, \"time_taken\": \"0:00:04.026692\"}",
         "message_id": "guest16082024112623",
