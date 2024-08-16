@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great, adding a button with the text \"Eyes\" now.",
+        "message_id": "guest16082024103343",
+        "timestamp": "16082024103346",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Eyes",
         "message_id": "guest16082024103343",
