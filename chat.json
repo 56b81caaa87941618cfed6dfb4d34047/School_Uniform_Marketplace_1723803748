@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you clarify where you would like the neon field to be added within the app? For example, is it on the homepage, product page, or checkout page?\", \"option1\": \"On the homepage\", \"option2\": \"On the product page\"}, {\"question 2\": \"What type of content or function will this neon field serve? Is it for decorative purposes or does it hold interactive elements like a form or button?\", \"option1\": \"It's for decorative purposes\", \"option2\": \"It holds interactive elements\"}], \"input_token_count\": 270, \"output_token_count\": 122, \"time_taken\": \"0:00:04.009634\"}",
+        "message_id": "guest16082024103934",
+        "timestamp": "16082024103942",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, adding a field with neon.",
         "message_id": "guest16082024103934",
