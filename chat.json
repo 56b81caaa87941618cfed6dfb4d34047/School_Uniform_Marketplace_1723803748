@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive sizing guide to ensure correct uniform size selection\", \"checked\": true}, {\"feature\": \"Real-time inventory updates to display available sizes and quantities\", \"checked\": false}, {\"feature\": \"Option to filter uniforms by category (e.g., grade, gender, season)\", \"checked\": true}, {\"feature\": \"Virtual try-on feature using AR for a better fit assurance\", \"checked\": false}, {\"feature\": \"Personalization options (e.g., adding name or initials on the uniform)\", \"checked\": true}, {\"feature\": \"Feedback section for users to report issues or suggest improvements\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 142, \"time_taken\": \"0:00:03.728394\"}",
+        "message_id": "guest16082024105107",
+        "timestamp": "16082024105114",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with zero",
         "message_id": "guest16082024105107",
