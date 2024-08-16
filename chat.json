@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly on the screen should the 'North East' button be positioned?\", \"option1\": \"Top right corner of the screen\", \"option2\": \"Bottom right corner of the screen\"}, {\"question 2\": \"What function should the 'North East' button perform when clicked?\", \"option1\": \"Redirect to a page with information on North East school uniforms\", \"option2\": \"Open a dropdown menu with options related to North East\"}], \"input_token_count\": 272, \"output_token_count\": 105, \"time_taken\": \"0:00:06.517797\"}",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110549",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Working on adding a button with text \"north East\".",
         "message_id": "guest16082024110539",
