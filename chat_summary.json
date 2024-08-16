@@ -1,5 +1,50 @@
 [
     {
+        "role": "user",
+        "content": "add a field with tye",
+        "message_id": "guest16082024104234",
+        "timestamp": "16082024104237",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'None of the Above' option for user preference fields\", \"checked\": true}, {\"feature\": \"Implement dynamic form fields to accommodate 'Neither' response\", \"checked\": true}, {\"feature\": \"Include validation for the new 'Neither' option to ensure proper selection\", \"checked\": true}, {\"feature\": \"Add a tooltip explaining the 'Neither' option for clarity\", \"checked\": false}, {\"feature\": \"Integrate a feedback option on form submission regarding the 'Neither' choice\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 122, \"time_taken\": \"0:00:04.758432\"}",
+        "message_id": "guest16082024104012",
+        "timestamp": "16082024104020",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you please specify where you would like the new field to be added in the app interface?\", \"option1\": \"On the main screen under the existing fields\", \"option2\": \"On a separate screen dedicated to additional information\"}, {\"question 2\": \"What type of information will this new 'neither' field collect or display?\", \"option1\": \"It's an option for users to select if they do not identify with existing categories\", \"option2\": \"It's for additional comments or information not covered by other fields\"}], \"input_token_count\": 272, \"output_token_count\": 123, \"time_taken\": \"0:00:04.705698\"}",
+        "message_id": "guest16082024104012",
+        "timestamp": "16082024104020",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add another field with niether ",
+        "message_id": "guest16082024104012",
+        "timestamp": "16082024104015",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it! Adding a new field titled \"Neither\".",
+        "message_id": "guest16082024104012",
+        "timestamp": "16082024104014",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Color customization options for uniform elements, allowing users to select neon as an option.\", \"checked\": true}, {\"feature\": \"Dynamic preview of uniforms with selected colors, including the neon options.\", \"checked\": true}, {\"feature\": \"Optional neon text embossing feature for school names or slogans.\", \"checked\": false}, {\"feature\": \"Neon-themed UI elements to match the neon field aesthetic.\", \"checked\": false}, {\"feature\": \"Feedback form for users to suggest new neon or other color options.\", \"checked\": false}, {\"feature\": \"Toggle feature for users to switch between neon and standard color modes.\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 135, \"time_taken\": \"0:00:04.466957\"}",
         "message_id": "guest16082024103934",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "user",
-        "content": "add a field with teio",
-        "message_id": "guest16082024103459",
-        "timestamp": "16082024103502",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Watch Video Demonstration' button for detailed uniform instructions\", \"checked\": true}, {\"feature\": \"Implement a 'Virtual Try-On' feature using AR for users to see how uniforms look on them\", \"checked\": false}, {\"feature\": \"Incorporate a 'Color Selector' for choosing uniform colors\", \"checked\": false}, {\"feature\": \"Introduce a 'Size Guide' button with detailed measurements for each uniform piece\", \"checked\": true}, {\"feature\": \"Add a feedback button named 'Share Your Thoughts' for user comments on uniforms\", \"checked\": false}, {\"feature\": \"Implement a 'Favorites' button for users to save preferred uniforms\", \"checked\": true}], \"input_token_count\": 225, \"output_token_count\": 159, \"time_taken\": \"0:00:06.088248\"}",
-        "message_id": "guest16082024103343",
-        "timestamp": "16082024103352",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Eyes' button to be positioned within the app interface?\", \"option1\": \"On the main screen, near the top of the app\", \"option2\": \"In the settings menu at the bottom of the sidebar\"}, {\"question 2\": \"What functionality should the 'Eyes' button have?\", \"option1\": \"Toggle a dark/light mode for better visibility\", \"option2\": \"Enlarge text and images for easier reading\"}], \"input_token_count\": 271, \"output_token_count\": 109, \"time_taken\": \"0:00:04.053103\"}",
-        "message_id": "guest16082024103343",
-        "timestamp": "16082024103350",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, adding a button with the text \"Eyes\" now.",
-        "message_id": "guest16082024103343",
-        "timestamp": "16082024103346",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button with text Eyes",
-        "message_id": "guest16082024103343",
-        "timestamp": "16082024103346",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the user requested the addition of several features, including a button labeled \"Free,\" which the AI confirmed it was adding. The user also received a checklist of potential features including a 'Contact Us' button, a 'Size Guide' pop-up, and an 'Add to Wishlist' button, among others. The user was prompted for preferences on the placement and function of the 'Free' button, which included options for its interface positioning and the action triggered upon clicking.\n\nAdditionally, the user asked for a \"Forget Password\" field, which the AI acknowledged, and subsequently inquired about the form's function for user registrations and password requirements. The user was presented with further options for features such as password security settings and verification systems. The AI confirmed it was adding a form for email and password registration.\n\nThe conversation continued with the user requesting more functionality, including buttons for 'Socks' and 'Shirts,' and a section for 'Featured Uniform Sets.' The user was asked about the placement and functionalities of related buttons, including one for 'Tie's,' which the AI noted it was also adding. The AI concluded by asking for more details about the project.",
-        "timestamp": "16082024103942",
-        "message_id": "guest16082024103934"
+        "content": "In the conversation, the user requested several features to be added to an application, including buttons and fields for \"Eyes,\" \"Free,\" \"Forget Password,\" \"email,\" and \"password.\" The AI assistant acknowledged each request and confirmed it was working on these additions. The user was offered a checklist of potential features to implement, which included items such as adding pop-up guides, customizable user profiles, and social sharing buttons. Additionally, the AI provided options for the placement and functionality of buttons like \"Free\" and \"Forget Password,\" seeking the user's preferences. Throughout the conversation, the user also expressed interest in features for navigation and security, including real-time chat support and multi-factor authentication. At the conclusion, the user asked about adding a button for \"Tie's,\" to which the AI responded with a request for more project details.",
+        "timestamp": "16082024104237",
+        "message_id": "guest16082024104234"
     }
 ]
