@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a field with nioa",
+        "message_id": "guest16082024112248",
+        "timestamp": "16082024112251",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'll add a field with the label \"Narrow\" as requested.",
         "message_id": "guest16082024112155",
