@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you please specify where you would like the new field to be added in the app interface?\", \"option1\": \"On the main screen under the existing fields\", \"option2\": \"On a separate screen dedicated to additional information\"}, {\"question 2\": \"What type of information will this new 'neither' field collect or display?\", \"option1\": \"It's an option for users to select if they do not identify with existing categories\", \"option2\": \"It's for additional comments or information not covered by other fields\"}], \"input_token_count\": 272, \"output_token_count\": 123, \"time_taken\": \"0:00:04.705698\"}",
+        "message_id": "guest16082024104012",
+        "timestamp": "16082024104020",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add another field with niether ",
         "message_id": "guest16082024104012",
