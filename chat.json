@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Eyes' button to be positioned within the app interface?\", \"option1\": \"On the main screen, near the top of the app\", \"option2\": \"In the settings menu at the bottom of the sidebar\"}, {\"question 2\": \"What functionality should the 'Eyes' button have?\", \"option1\": \"Toggle a dark/light mode for better visibility\", \"option2\": \"Enlarge text and images for easier reading\"}], \"input_token_count\": 271, \"output_token_count\": 109, \"time_taken\": \"0:00:04.053103\"}",
+        "message_id": "guest16082024103343",
+        "timestamp": "16082024103350",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, adding a button with the text \"Eyes\" now.",
         "message_id": "guest16082024103343",
