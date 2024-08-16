@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd a button with text Eyes"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user initiated the conversation by requesting the addition of a form that includes email and password fields. The AI assistant acknowledged this request and mentioned it was working on implementing the form. Following this, the user was presented with a list of additional features that could be implemented, which included options like a password strength meter, email verification, a \"remember me\" feature, two-factor authentication, a \"forgot password?\" link, and a visibility toggle for password entries. The AI confirmed the inclusion of several features while noting others remained unchecked.\n\nSubsequently, the user requested to add a button labeled \"Tie's,\" prompting the AI to inquire about the button's position and associated actions within the app. The user was given options for where to place the button and what it should do when clicked. The AI acknowledged this new request and confirmed it would proceed with adding the \"Tie's\" button. To gain more context, the AI then asked the user to describe the project further.\nAI: Great idea! Working on adding a form with \"Forget Everything\" field.\nUser: add a button with text Free\nAI: Great, adding a button with the text \"Free\" now.\nAI: Noted, adding a new text field for \"Forget Password\".\nUser: add a another field with text Forget Password\n\nThis is the user's current request of changes to be made:\nadd a field with teio"
     }
 ]
