@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Will add a field for Eyedrops, thank you.",
+        "message_id": "guest16082024105407",
+        "timestamp": "16082024105411",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with Eyedrops",
         "message_id": "guest16082024105407",
