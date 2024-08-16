@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Free",
+        "message_id": "guest16082024103134",
+        "timestamp": "16082024103137",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, adding a button with the text \"Free\" now.",
         "message_id": "guest16082024103134",
