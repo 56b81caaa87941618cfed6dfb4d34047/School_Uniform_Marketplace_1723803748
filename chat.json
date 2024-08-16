@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Forget Password' option to be located within the app?\", \"option1\": \"Below the login button\", \"option2\": \"Inside the login form, below the password field\"}, {\"question 2\": \"Do you want the 'Forget Password' feature to include security questions or send a reset link via email?\", \"option1\": \"Include security questions\", \"option2\": \"Send a reset link via email\"}], \"input_token_count\": 273, \"output_token_count\": 104, \"time_taken\": \"0:00:02.188876\"}",
+        "message_id": "guest16082024102812",
+        "timestamp": "16082024102817",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Noted, adding a new text field for \"Forget Password\".",
         "message_id": "guest16082024102812",
