@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to enable users to register for a new account or to log in using their existing credentials?\", \"option1\": \"Enable users to register for a new account\", \"option2\": \"Allow users to log in with existing credentials\"}, {\"question 2\": \"Should the password field include specific requirements (e.g., minimum length, inclusion of numbers/symbols) for enhanced security, or would you prefer a more basic setup?\", \"option1\": \"Include specific requirements for enhanced security\", \"option2\": \"Prefer a basic setup without specific requirements\"}], \"input_token_count\": 272, \"output_token_count\": 130, \"time_taken\": \"0:00:05.130312\"}",
+        "message_id": "guest16082024102537",
+        "timestamp": "16082024102545",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Password strength meter to ensure strong passwords\", \"checked\": true}, {\"feature\": \"Email verification system to validate email addresses\", \"checked\": true}, {\"feature\": \"Remember me option for easier login in the future\", \"checked\": false}, {\"feature\": \"Two-factor authentication for enhanced security\", \"checked\": false}, {\"feature\": \"Forgot password? link to recover accounts\", \"checked\": true}, {\"feature\": \"Visibility toggle to show/hide password entry\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 117, \"time_taken\": \"0:00:04.646933\"}",
         "message_id": "guest16082024102537",
