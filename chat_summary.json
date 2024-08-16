@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Color customization options for uniform elements, allowing users to select neon as an option.\", \"checked\": true}, {\"feature\": \"Dynamic preview of uniforms with selected colors, including the neon options.\", \"checked\": true}, {\"feature\": \"Optional neon text embossing feature for school names or slogans.\", \"checked\": false}, {\"feature\": \"Neon-themed UI elements to match the neon field aesthetic.\", \"checked\": false}, {\"feature\": \"Feedback form for users to suggest new neon or other color options.\", \"checked\": false}, {\"feature\": \"Toggle feature for users to switch between neon and standard color modes.\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 135, \"time_taken\": \"0:00:04.466957\"}",
+        "message_id": "guest16082024103934",
+        "timestamp": "16082024103942",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you clarify where you would like the neon field to be added within the app? For example, is it on the homepage, product page, or checkout page?\", \"option1\": \"On the homepage\", \"option2\": \"On the product page\"}, {\"question 2\": \"What type of content or function will this neon field serve? Is it for decorative purposes or does it hold interactive elements like a form or button?\", \"option1\": \"It's for decorative purposes\", \"option2\": \"It holds interactive elements\"}], \"input_token_count\": 270, \"output_token_count\": 122, \"time_taken\": \"0:00:04.009634\"}",
+        "message_id": "guest16082024103934",
+        "timestamp": "16082024103942",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, adding a field with neon.",
+        "message_id": "guest16082024103934",
+        "timestamp": "16082024103938",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a field with neon",
+        "message_id": "guest16082024103934",
+        "timestamp": "16082024103937",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a text input field labeled 'Teio'\", \"checked\": true}, {\"feature\": \"Implement form validation for the new 'Teio' field\", \"checked\": true}, {\"feature\": \"Add placeholder text to guide the user on what to enter in the 'Teio' field\", \"checked\": true}, {\"feature\": \"Include an information icon next to the 'Teio' field with a tooltip explaining its purpose\", \"checked\": false}, {\"feature\": \"Enable autocomplete for the 'Teio' field based on previous entries\", \"checked\": false}, {\"feature\": \"Integrate a clear button within the 'Teio' field to easily erase typed input\", \"checked\": false}], \"input_token_count\": 499, \"output_token_count\": 147, \"time_taken\": \"0:00:05.409277\"}",
+        "message_id": "guest16082024103459",
+        "timestamp": "16082024103508",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with teio",
         "message_id": "guest16082024103459",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Great idea! Working on adding a form with \"Forget Everything\" field.",
-        "message_id": "guest16082024103206",
-        "timestamp": "16082024103209",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'Contact Us' button for inquiries and assistance, with hover effect\", \"checked\": true}, {\"feature\": \"Insert a 'Size Guide' pop-up feature to help users find the right fit\", \"checked\": false}, {\"feature\": \"Implement a 'Filter by Size/Price' option for easier product navigation\", \"checked\": true}, {\"feature\": \"Add a 'Recently Viewed' section to help users track their viewed items\", \"checked\": false}, {\"feature\": \"Create an 'Add to Wishlist' button for each product for future purchases\", \"checked\": true}, {\"feature\": \"Incorporate a 'Share on Social Media' button for each product\", \"checked\": false}], \"input_token_count\": 225, \"output_token_count\": 161, \"time_taken\": \"0:00:04.958162\"}",
-        "message_id": "guest16082024103134",
-        "timestamp": "16082024103143",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free' button to be positioned within the app's interface?\", \"option1\": \"On the main screen, prominently displayed\", \"option2\": \"In the uniform item details section, next to the price\"}, {\"question 2\": \"What action should occur when a user clicks on the 'Free' button?\", \"option1\": \"Direct user to a form for requesting a free uniform sample\", \"option2\": \"Show a pop-up explaining the terms and conditions of the free uniform offer\"}], \"input_token_count\": 271, \"output_token_count\": 120, \"time_taken\": \"0:00:03.909901\"}",
-        "message_id": "guest16082024103134",
-        "timestamp": "16082024103142",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button with text Free",
-        "message_id": "guest16082024103134",
-        "timestamp": "16082024103137",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Great, adding a button with the text \"Free\" now.",
-        "message_id": "guest16082024103134",
-        "timestamp": "16082024103137",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the user discussed implementing various features for an app with the AI assistant. The user requested the addition of a text field labeled \"Forget Password,\" which the AI acknowledged. They were also presented with options regarding the placement of this feature within the app and whether to include security questions or an email reset link. The user later asked for a form that includes fields for email and password, to which the AI confirmed it would be added. \n\nAdditionally, the AI provided a checklist of potential features, such as a password strength meter, email verification, and a \"Forgot password?\" link, highlighting what has been checked off. The user confirmed the need for buttons labeled \"Socks,\" \"Shirts,\" and \"Tie's\" as well as an implementation of these buttons. The user was also queried about the positioning of the \"Tie's\" button and the action that should occur upon clicking it. The AI again acknowledged this request, indicating progress on adding the required functionalities. Throughout the conversation, the AI continuously adapted based on the user's inputs and preferences.",
-        "timestamp": "16082024103502",
-        "message_id": "guest16082024103459"
+        "content": "In the conversation, the user requested the addition of several features, including a button labeled \"Free,\" which the AI confirmed it was adding. The user also received a checklist of potential features including a 'Contact Us' button, a 'Size Guide' pop-up, and an 'Add to Wishlist' button, among others. The user was prompted for preferences on the placement and function of the 'Free' button, which included options for its interface positioning and the action triggered upon clicking.\n\nAdditionally, the user asked for a \"Forget Password\" field, which the AI acknowledged, and subsequently inquired about the form's function for user registrations and password requirements. The user was presented with further options for features such as password security settings and verification systems. The AI confirmed it was adding a form for email and password registration.\n\nThe conversation continued with the user requesting more functionality, including buttons for 'Socks' and 'Shirts,' and a section for 'Featured Uniform Sets.' The user was asked about the placement and functionalities of related buttons, including one for 'Tie's,' which the AI noted it was also adding. The AI concluded by asking for more details about the project.",
+        "timestamp": "16082024103942",
+        "message_id": "guest16082024103934"
     }
 ]
