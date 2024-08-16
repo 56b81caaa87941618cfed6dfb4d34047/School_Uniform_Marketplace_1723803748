@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive 'Forget Password' process with security questions or email verification\", \"checked\": true}, {\"feature\": \"Customizable user profiles for parents and students to save sizes and preferences\", \"checked\": false}, {\"feature\": \"Real-time chat support for assistance with orders or account issues\", \"checked\": false}, {\"feature\": \"Multi-factor authentication for enhanced security\", \"checked\": true}, {\"feature\": \"A dedicated section for FAQs regarding uniform sizing, return policy, and order tracking\", \"checked\": false}, {\"feature\": \"Notification alerts for order status updates and special promotions\", \"checked\": true}], \"input_token_count\": 227, \"output_token_count\": 139, \"time_taken\": \"0:00:04.221886\"}",
+        "message_id": "guest16082024102812",
+        "timestamp": "16082024102819",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Forget Password' option to be located within the app?\", \"option1\": \"Below the login button\", \"option2\": \"Inside the login form, below the password field\"}, {\"question 2\": \"Do you want the 'Forget Password' feature to include security questions or send a reset link via email?\", \"option1\": \"Include security questions\", \"option2\": \"Send a reset link via email\"}], \"input_token_count\": 273, \"output_token_count\": 104, \"time_taken\": \"0:00:02.188876\"}",
         "message_id": "guest16082024102812",
