@@ -12,5 +12,11 @@
         "content": "add a button with text Tie's",
         "timestamp": "16082024102459",
         "message_id": "guest16082024102456"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a button with the text \"Tie's\".",
+        "timestamp": "16082024102500",
+        "message_id": "guest16082024102456"
     }
 ]
