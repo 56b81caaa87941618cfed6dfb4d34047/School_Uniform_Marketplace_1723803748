@@ -1,6 +1,51 @@
 [
     {
         "role": "chat_acknowledge",
+        "content": "I'll add a field with the label \"Narrow\" as requested.",
+        "message_id": "guest16082024112155",
+        "timestamp": "16082024112158",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a field with narraow",
+        "message_id": "guest16082024112155",
+        "timestamp": "16082024112158",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you clarify what the 'huia' field is intended for? Is it for search purposes or some form of identification?\", \"option1\": \"It's for search purposes, to help users find specific uniform items.\", \"option2\": \"It's an identification code for each uniform item.\"}, {\"question 2\": \"Where would you like the 'huia' field placed in the app's interface?\", \"option1\": \"Please add it on the main page above the list of uniforms.\", \"option2\": \"Include it in the details page of each uniform item.\"}], \"input_token_count\": 271, \"output_token_count\": 130, \"time_taken\": \"0:00:02.860793\"}",
+        "message_id": "guest16082024111929",
+        "timestamp": "16082024111935",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a field with \"huia\" now.",
+        "message_id": "guest16082024111929",
+        "timestamp": "16082024111932",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a field with huia",
+        "message_id": "guest16082024111929",
+        "timestamp": "16082024111932",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
         "content": "Great! Adding a field with \"TIOS\" now.",
         "message_id": "guest16082024111805",
         "timestamp": "16082024111808",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify where you would like the ARROW field to be added in the app?\", \"option1\": \"On the main page next to the search bar\", \"option2\": \"In the product details page, next to the size selection\"}, {\"question 2\": \"Is the ARROW field meant for navigation or does it serve another function?\", \"option1\": \"It's for navigation to the next or previous item\", \"option2\": \"It has a different function (please specify)\"}], \"input_token_count\": 272, \"output_token_count\": 117, \"time_taken\": \"0:00:04.237515\"}",
-        "message_id": "guest16082024110618",
-        "timestamp": "16082024110625",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'South West' button for complementary navigation\", \"checked\": true}, {\"feature\": \"Implement a dynamic school logo display next to the navigation buttons\", \"checked\": false}, {\"feature\": \"Create a uniform customization feature with preview\", \"checked\": true}, {\"feature\": \"Incorporate a size guide pop-up linked from the toolbar\", \"checked\": true}, {\"feature\": \"Design an interactive school selection drop-down menu\", \"checked\": false}, {\"feature\": \"Embed a chat support button for instant assistance\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 129, \"time_taken\": \"0:00:07.842711\"}",
-        "message_id": "guest16082024110539",
-        "timestamp": "16082024110550",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly on the screen should the 'North East' button be positioned?\", \"option1\": \"Top right corner of the screen\", \"option2\": \"Bottom right corner of the screen\"}, {\"question 2\": \"What function should the 'North East' button perform when clicked?\", \"option1\": \"Redirect to a page with information on North East school uniforms\", \"option2\": \"Open a dropdown menu with options related to North East\"}], \"input_token_count\": 272, \"output_token_count\": 105, \"time_taken\": \"0:00:06.517797\"}",
-        "message_id": "guest16082024110539",
-        "timestamp": "16082024110549",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Working on adding a button with text \"north East\".",
-        "message_id": "guest16082024110539",
-        "timestamp": "16082024110542",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button with text north East",
-        "message_id": "guest16082024110539",
-        "timestamp": "16082024110542",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the ongoing conversation, the user requested the addition of various fields, buttons, and features within an app. The user primarily instructed the AI to add fields for \"charge,\" \"Eyedrops,\" \"zero,\" \"tye,\" \"neither,\" \"neon,\" \"teio,\" \"Eyes,\" \"Free,\" and \"Forget Password.\" Each time, the AI acknowledged the request and confirmed it would add the specified field. \n\nThe user was also presented with options about the placement and functionality of these fields in the app. For instance, when asked about the \"charge\" field, the user expressed a desire for it on the checkout page, preferring a static value displayed to all users. Other features were also suggested by the AI, including a pricing display for uniform items, payment gateway integration, notifications for payment confirmations, and a user profile section for storing preferences.\n\nAdditionally, the user indicated preferences about other features, such as integrating neon elements, adding buttons labeled \"Socks,\" \"Shirts,\" and \"Tie's,\" implementing a color picker, and establishing an interactive password reset process. After each set of inquiries, the AI offered further suggestions on additional potential features, covering aspects like security measures, user customization, and ease of navigation.\n\nThe AI's responses were consistently supportive, confirming the user\u2019s requests and integrating their feedback into the app updates as they unfolded throughout the dialogue. The interaction culminated in the AI seeking further clarification about the overall project aims to ensure accurate implementation of the requested features.",
-        "timestamp": "16082024111808",
-        "message_id": "guest16082024111805"
+        "content": "The conversation involved a user interacting with an AI assistant to customize an application by adding various features and buttons. The user specified multiple requests, including adding fields for an \"ARROW,\" \"charge,\" \"Eyedrops,\" \"zero,\" \"tye,\" \"neither,\" \"neon,\" \"teio,\" \"Eyes,\" and \"Free.\" The AI acknowledged each request and confirmed the addition of these elements. The user also discussed the layout and functionality of buttons, including positioning them on the main screen or specific sections, and their respective functionalities. The AI provided options for additional features the user might want to implement, such as a color picker, interactive sizing guide, and feedback mechanisms, confirming the inclusion of various requested features like a price display, favorites button, and dynamic search functionality. \n\nThe user made requests for functional buttons, such as a \"Forget Password\" field and email/password form, with the AI confirming tasks for each. Additional functionality was discussed, including a password strength meter and email verification system to enhance security. The conversation concludes with the assistant asking for further details about the project to refine the user\u2019s requests.",
+        "timestamp": "16082024112158",
+        "message_id": "guest16082024112155"
     }
 ]
