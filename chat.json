@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a field with narraow",
+        "message_id": "guest16082024112155",
+        "timestamp": "16082024112158",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you clarify what the 'huia' field is intended for? Is it for search purposes or some form of identification?\", \"option1\": \"It's for search purposes, to help users find specific uniform items.\", \"option2\": \"It's an identification code for each uniform item.\"}, {\"question 2\": \"Where would you like the 'huia' field placed in the app's interface?\", \"option1\": \"Please add it on the main page above the list of uniforms.\", \"option2\": \"Include it in the details page of each uniform item.\"}], \"input_token_count\": 271, \"output_token_count\": 130, \"time_taken\": \"0:00:02.860793\"}",
         "message_id": "guest16082024111929",
