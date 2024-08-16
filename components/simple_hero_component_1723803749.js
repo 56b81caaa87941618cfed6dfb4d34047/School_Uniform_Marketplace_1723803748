@@ -4,7 +4,7 @@
 */
 Vue.component("simple_hero_component_1723803749", {
     template: `
-        <section id="hero-section" style="min-height: 590px" class="bg-white dark:bg-gray-900 flex-1">
+        <section id="hero-section" style="min-height: 710px"  class="bg-white dark:bg-gray-900 flex-1">
             <div id="hero-container" class="grid max-w-screen-xl px-4 pt-20 pb-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 lg:pt-28">
                 <div id="hero-text-container" class="mr-auto place-self-center lg:col-span-7">
                     
@@ -41,9 +41,6 @@ Vue.component("simple_hero_component_1723803749", {
                                 <input type="password" id="password" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required>
                             </div>
                             <button type="submit" class="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
-                            <div class="text-sm text-gray-600 dark:text-gray-400 mt-2">
-                                <a href="#" class="hover:underline">Forget Password</a>
-                            </div>
                         </form>
                     </div>
                     
