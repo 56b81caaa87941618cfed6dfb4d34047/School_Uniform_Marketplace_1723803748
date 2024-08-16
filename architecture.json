@@ -98,5 +98,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nchange the background color to green and blue"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nadd a form with email and password and forget Password"
     }
 ]
