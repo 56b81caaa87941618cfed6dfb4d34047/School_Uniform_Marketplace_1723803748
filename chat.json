@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a price display for each uniform item\", \"checked\": true}, {\"feature\": \"Integrate a secure payment gateway for purchasing uniforms\", \"checked\": false}, {\"feature\": \"Implement a discount or coupon code entry field\", \"checked\": true}, {\"feature\": \"Show a total cost calculation before checkout\", \"checked\": true}, {\"feature\": \"Add an option for users to view their purchase history\", \"checked\": false}, {\"feature\": \"Enable notifications for payment confirmation and dispatch details\", \"checked\": true}], \"input_token_count\": 224, \"output_token_count\": 123, \"time_taken\": \"0:00:04.364246\"}",
+        "message_id": "guest16082024105933",
+        "timestamp": "16082024105942",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a field with charge",
         "message_id": "guest16082024105933",
