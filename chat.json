@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify where you would like the ARROW field to be added in the app?\", \"option1\": \"On the main page next to the search bar\", \"option2\": \"In the product details page, next to the size selection\"}, {\"question 2\": \"Is the ARROW field meant for navigation or does it serve another function?\", \"option1\": \"It's for navigation to the next or previous item\", \"option2\": \"It has a different function (please specify)\"}], \"input_token_count\": 272, \"output_token_count\": 117, \"time_taken\": \"0:00:04.237515\"}",
+        "message_id": "guest16082024110618",
+        "timestamp": "16082024110625",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'South West' button for complementary navigation\", \"checked\": true}, {\"feature\": \"Implement a dynamic school logo display next to the navigation buttons\", \"checked\": false}, {\"feature\": \"Create a uniform customization feature with preview\", \"checked\": true}, {\"feature\": \"Incorporate a size guide pop-up linked from the toolbar\", \"checked\": true}, {\"feature\": \"Design an interactive school selection drop-down menu\", \"checked\": false}, {\"feature\": \"Embed a chat support button for instant assistance\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 129, \"time_taken\": \"0:00:07.842711\"}",
         "message_id": "guest16082024110539",
