@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm adding another field with 'Comp'.",
+        "message_id": "guest16082024105823",
+        "timestamp": "16082024105826",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the field for Eyedrops to be added in the app?\", \"option1\": \"In the products section under health-related items.\", \"option2\": \"On the checkout page as an optional add-on to any purchase.\"}, {\"question 2\": \"Should the Eyedrops field include any specific information or options for the users?\", \"option1\": \"Yes, include a dropdown menu with different types of Eyedrops available.\", \"option2\": \"No, just a checkbox to add Eyedrops to their purchase.\"}], \"input_token_count\": 272, \"output_token_count\": 124, \"time_taken\": \"0:00:07.734761\"}",
         "message_id": "guest16082024105407",
