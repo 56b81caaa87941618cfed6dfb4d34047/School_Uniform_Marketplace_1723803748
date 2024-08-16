@@ -86,5 +86,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd a field with yue"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nadd a field with triwa"
     }
 ]
