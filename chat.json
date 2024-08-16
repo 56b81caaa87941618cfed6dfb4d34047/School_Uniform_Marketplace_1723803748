@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great! Adding a field with \"TIOS\" now.",
+        "message_id": "guest16082024111805",
+        "timestamp": "16082024111808",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "ADD A FIELD WITH TIOS",
         "message_id": "guest16082024111805",
