@@ -34,5 +34,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd another field with niether "
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the addition of several features, including a button labeled \"Free,\" which the AI confirmed it was adding. The user also received a checklist of potential features including a 'Contact Us' button, a 'Size Guide' pop-up, and an 'Add to Wishlist' button, among others. The user was prompted for preferences on the placement and function of the 'Free' button, which included options for its interface positioning and the action triggered upon clicking.\n\nAdditionally, the user asked for a \"Forget Password\" field, which the AI acknowledged, and subsequently inquired about the form's function for user registrations and password requirements. The user was presented with further options for features such as password security settings and verification systems. The AI confirmed it was adding a form for email and password registration.\n\nThe conversation continued with the user requesting more functionality, including buttons for 'Socks' and 'Shirts,' and a section for 'Featured Uniform Sets.' The user was asked about the placement and functionalities of related buttons, including one for 'Tie's,' which the AI noted it was also adding. The AI concluded by asking for more details about the project.\nAI: Okay, adding a field with neon.\nUser: add a field with neon\nUser: add a field with teio\nAI: Great, adding a button with the text \"Eyes\" now.\nUser: add a button with text Eyes\n\nThis is the user's current request of changes to be made:\nadd a field with tye"
     }
 ]
