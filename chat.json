@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Field for 'NIOA' information input with validation (e.g., specific format or numbers only)\", \"checked\": true}, {\"feature\": \"Drop-down menu for selecting uniform categories (e.g., Grade, Gender)\", \"checked\": false}, {\"feature\": \"Size guide pop-up or link next to the 'NIOA' field to help users choose the right size\", \"checked\": true}, {\"feature\": \"Real-time preview feature showing uniform appearance based on selected options (e.g., color, size)\", \"checked\": false}, {\"feature\": \"Availability checker for selected uniforms before adding to cart\", \"checked\": true}, {\"feature\": \"FAQ or help section for queries related to 'NIOA' and uniform sizing\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 172, \"time_taken\": \"0:00:04.771156\"}",
+        "message_id": "guest16082024112248",
+        "timestamp": "16082024112256",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you please specify what information the 'nioa' field should collect?\", \"option1\": \"Student ID or registration number\", \"option2\": \"Confirmation of uniform size selection\"}, {\"question 2\": \"Where would you like the 'nioa' field to be positioned within the app?\", \"option1\": \"In the registration section\", \"option2\": \"In the uniform order form section\"}], \"input_token_count\": 272, \"output_token_count\": 96, \"time_taken\": \"0:00:02.542904\"}",
         "message_id": "guest16082024112248",
