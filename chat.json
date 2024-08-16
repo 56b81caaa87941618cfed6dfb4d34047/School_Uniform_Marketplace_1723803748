@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add another field with niether ",
+        "message_id": "guest16082024104012",
+        "timestamp": "16082024104015",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it! Adding a new field titled \"Neither\".",
         "message_id": "guest16082024104012",
