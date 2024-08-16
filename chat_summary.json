@@ -1,6 +1,51 @@
 [
     {
         "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you please specify where you would like the ARROW field to be added in the app?\", \"option1\": \"On the main page next to the search bar\", \"option2\": \"In the product details page, next to the size selection\"}, {\"question 2\": \"Is the ARROW field meant for navigation or does it serve another function?\", \"option1\": \"It's for navigation to the next or previous item\", \"option2\": \"It has a different function (please specify)\"}], \"input_token_count\": 272, \"output_token_count\": 117, \"time_taken\": \"0:00:04.237515\"}",
+        "message_id": "guest16082024110618",
+        "timestamp": "16082024110625",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a 'South West' button for complementary navigation\", \"checked\": true}, {\"feature\": \"Implement a dynamic school logo display next to the navigation buttons\", \"checked\": false}, {\"feature\": \"Create a uniform customization feature with preview\", \"checked\": true}, {\"feature\": \"Incorporate a size guide pop-up linked from the toolbar\", \"checked\": true}, {\"feature\": \"Design an interactive school selection drop-down menu\", \"checked\": false}, {\"feature\": \"Embed a chat support button for instant assistance\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 129, \"time_taken\": \"0:00:07.842711\"}",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110550",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly on the screen should the 'North East' button be positioned?\", \"option1\": \"Top right corner of the screen\", \"option2\": \"Bottom right corner of the screen\"}, {\"question 2\": \"What function should the 'North East' button perform when clicked?\", \"option1\": \"Redirect to a page with information on North East school uniforms\", \"option2\": \"Open a dropdown menu with options related to North East\"}], \"input_token_count\": 272, \"output_token_count\": 105, \"time_taken\": \"0:00:06.517797\"}",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110549",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a button with text \"north East\".",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110542",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text north East",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110542",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify where you want the 'charge' field to be added within the app? For clarity, are you requesting its placement on a specific page or section?\", \"option1\": \"On the checkout page\", \"option2\": \"In the user profile section\"}, {\"question 2\": \"Is the 'charge' field meant to be a static value displayed to all users or should it dynamically update based on user actions or selections?\", \"option1\": \"Static value displayed to all users\", \"option2\": \"Dynamically updates based on user actions or selections\"}], \"input_token_count\": 270, \"output_token_count\": 130, \"time_taken\": \"0:00:04.509650\"}",
         "message_id": "guest16082024105933",
         "timestamp": "16082024105942",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Alright, I'm adding another field with 'Comp'.",
-        "message_id": "guest16082024105823",
-        "timestamp": "16082024105826",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the field for Eyedrops to be added in the app?\", \"option1\": \"In the products section under health-related items.\", \"option2\": \"On the checkout page as an optional add-on to any purchase.\"}, {\"question 2\": \"Should the Eyedrops field include any specific information or options for the users?\", \"option1\": \"Yes, include a dropdown menu with different types of Eyedrops available.\", \"option2\": \"No, just a checkbox to add Eyedrops to their purchase.\"}], \"input_token_count\": 272, \"output_token_count\": 124, \"time_taken\": \"0:00:07.734761\"}",
-        "message_id": "guest16082024105407",
-        "timestamp": "16082024105419",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Color picker for uniform customization\", \"checked\": true}, {\"feature\": \"Virtual try-on feature for uniforms\", \"checked\": false}, {\"feature\": \"Size recommendation tool based on age and height inputs\", \"checked\": false}, {\"feature\": \"User profile section to save uniform sizes and preferences\", \"checked\": true}, {\"feature\": \"Shopping cart with 'save for later' option\", \"checked\": false}, {\"feature\": \"Feedback section for user reviews and suggestions\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 118, \"time_taken\": \"0:00:07.016095\"}",
-        "message_id": "guest16082024105407",
-        "timestamp": "16082024105418",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Will add a field for Eyedrops, thank you.",
-        "message_id": "guest16082024105407",
-        "timestamp": "16082024105411",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a field with Eyedrops",
-        "message_id": "guest16082024105407",
-        "timestamp": "16082024105411",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "The user requested to add a field for various elements in the app, including fields labeled \"zero,\" \"tye,\" \"neither,\" \"teio,\" and buttons titled \"Eyes,\" \"Free,\" and \"Forget Password.\" In response to these requests, the AI posed questions concerning the placement and functionality of these new features to ensure proper integration. For example, the AI asked where the \"zero\" field should be added, with the user suggesting either at the main page or in the checkout section. The AI further provided a checklist of features for the user to consider, which included aspects like an interactive sizing guide, dynamic inventory updates, and various filtering options.\n\nThe user expressed interest in implementing additional options, such as color customization and dynamic search capabilities. The AI consistently acknowledged each addition and confirmed the feature implementations. Further inquiries were made regarding the \u201cEyes\u201d button's placement while confirming the addition of a feedback mechanism for user suggestions. \n\nA comprehensive strategy involving user registration, login security, and visibility toggles for password entries was discussed. The user indicated preferences for buttons that align with various categories of uniforms, showcasing a well-rounded approach in navigating and enhancing user experience. The AI integrated user feedback effectively, acknowledging each request while focusing on usability enhancements and customization options to meet user requirements in the application.",
-        "timestamp": "16082024105942",
-        "message_id": "guest16082024105933"
+        "content": "The user engaged with the AI assistant to implement various features in an application. The conversation began with the user requesting to add a field for Eyedrops, which the AI acknowledged and confirmed with two questions about the placement and specifications of this field. The user was offered additional features to implement, including a color picker and virtual try-on for uniforms, with some being checked off for inclusion. \n\nThe user then requested fields with \"zero,\" \"tye,\" and \"neither,\" which the AI also acknowledged, responding to queries regarding their intended functionality and placement. The assistant continued to suggest additional UI elements, such as a \"Forget Everything\" field and various interactive features. The user made further requests, specifically asking for buttons labeled \"Eyes,\" \"Free,\" and a \"Forget Password.\" Each time, the AI acknowledged the requests and provided clarification through follow-up questions.\n\nEventually, the user requested a form for email and password registration, which was also acknowledged by the AI. The user continued to iterate on various features, including buttons for category navigation and customization options. Throughout the conversation, the AI consistently asked questions for clarification and offered additional features for consideration before confirming the implementation of each requested item.",
+        "timestamp": "16082024110625",
+        "message_id": "guest16082024110618"
     }
 ]
