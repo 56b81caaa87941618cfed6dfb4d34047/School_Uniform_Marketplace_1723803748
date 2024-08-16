@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the background color to green and blue",
+        "message_id": "guest16082024113104",
+        "timestamp": "16082024113107",
+        "component_file_name": "simple_cta_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great, I'll add a field containing the text \"Nhiq\".",
         "message_id": "guest16082024112922",
