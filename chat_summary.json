@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Socks'\", \"checked\": true}, {\"feature\": \"Include a 'Shirts' category button\", \"checked\": true}, {\"feature\": \"Implement a searchable dropdown for size selection\", \"checked\": false}, {\"feature\": \"Add a 'Featured Uniform Sets' section on the homepage\", \"checked\": true}, {\"feature\": \"Incorporate a 'Recently Viewed' section for quick navigation\", \"checked\": false}, {\"feature\": \"Enable a customization option for badges and logos on uniforms\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 130, \"time_taken\": \"0:00:04.652359\"}",
         "timestamp": "16082024102504",
         "message_id": "guest16082024102456"
+    },
+    {
+        "role": "user",
+        "content": "add a form with email and password",
+        "timestamp": "16082024102539",
+        "message_id": "guest16082024102537"
     }
 ]
