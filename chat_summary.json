@@ -54,5 +54,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to enable users to register for a new account or to log in using their existing credentials?\", \"option1\": \"Enable users to register for a new account\", \"option2\": \"Allow users to log in with existing credentials\"}, {\"question 2\": \"Should the password field include specific requirements (e.g., minimum length, inclusion of numbers/symbols) for enhanced security, or would you prefer a more basic setup?\", \"option1\": \"Include specific requirements for enhanced security\", \"option2\": \"Prefer a basic setup without specific requirements\"}], \"input_token_count\": 272, \"output_token_count\": 130, \"time_taken\": \"0:00:05.130312\"}",
         "timestamp": "16082024102545",
         "message_id": "guest16082024102537"
+    },
+    {
+        "role": "user",
+        "content": "add a another field with text Forget Password",
+        "timestamp": "16082024102815",
+        "message_id": "guest16082024102812"
     }
 ]
