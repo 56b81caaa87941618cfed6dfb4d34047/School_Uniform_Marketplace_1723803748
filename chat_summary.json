@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically do you want the field with zero to be added in the app? Can you provide the section or page details?\", \"option1\": \"On the main page, next to the existing uniform categories.\", \"option2\": \"In the checkout section, allowing users to input '0' for quantity adjustments.\"}, {\"question 2\": \"Is the field for 'zero' intended to allow users to input or select '0' for specific purposes such as removing an item from their cart, or is it for something else?\", \"option1\": \"Yes, it's for users to select '0' to remove an item from their cart or wishlist.\", \"option2\": \"No, it's for a different purpose. (Please specify)\"}], \"input_token_count\": 270, \"output_token_count\": 165, \"time_taken\": \"0:00:04.233649\"}",
+        "message_id": "guest16082024105107",
+        "timestamp": "16082024105115",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive sizing guide to ensure correct uniform size selection\", \"checked\": true}, {\"feature\": \"Real-time inventory updates to display available sizes and quantities\", \"checked\": false}, {\"feature\": \"Option to filter uniforms by category (e.g., grade, gender, season)\", \"checked\": true}, {\"feature\": \"Virtual try-on feature using AR for a better fit assurance\", \"checked\": false}, {\"feature\": \"Personalization options (e.g., adding name or initials on the uniform)\", \"checked\": true}, {\"feature\": \"Feedback section for users to report issues or suggest improvements\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 142, \"time_taken\": \"0:00:03.728394\"}",
+        "message_id": "guest16082024105107",
+        "timestamp": "16082024105114",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a field with zero",
+        "message_id": "guest16082024105107",
+        "timestamp": "16082024105110",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a field for filtering uniforms by type (e.g., Ties)\", \"checked\": true}, {\"feature\": \"Implement a dynamic search bar with auto-suggestions for categories like Socks, Shirts, Ties, etc.\", \"checked\": false}, {\"feature\": \"Create a 'Recently Viewed Items' section to enhance user navigation\", \"checked\": false}, {\"feature\": \"Incorporate a 'Mix & Match' feature allowing users to visualize uniform combinations\", \"checked\": false}, {\"feature\": \"Add a 'New Arrivals' section for the latest uniform designs and accessories\", \"checked\": false}, {\"feature\": \"Embed a 'Uniform Care Instructions' pop-up for maintaining the quality of purchased items\", \"checked\": false}], \"input_token_count\": 525, \"output_token_count\": 169, \"time_taken\": \"0:00:04.951192\"}",
+        "message_id": "guest16082024104234",
+        "timestamp": "16082024104243",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the 'tye' field to be an input field for users or a display element within the app?\", \"option1\": \"Input field for users\", \"option2\": \"Display element within the app\"}, {\"question 2\": \"Should the 'tye' field be associated with any specific functionality or information within the app, such as user information or product details?\", \"option1\": \"Associated with user information\", \"option2\": \"Associated with product details\"}], \"input_token_count\": 571, \"output_token_count\": 112, \"time_taken\": \"0:00:03.534457\"}",
+        "message_id": "guest16082024104234",
+        "timestamp": "16082024104241",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with tye",
         "message_id": "guest16082024104234",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Color customization options for uniform elements, allowing users to select neon as an option.\", \"checked\": true}, {\"feature\": \"Dynamic preview of uniforms with selected colors, including the neon options.\", \"checked\": true}, {\"feature\": \"Optional neon text embossing feature for school names or slogans.\", \"checked\": false}, {\"feature\": \"Neon-themed UI elements to match the neon field aesthetic.\", \"checked\": false}, {\"feature\": \"Feedback form for users to suggest new neon or other color options.\", \"checked\": false}, {\"feature\": \"Toggle feature for users to switch between neon and standard color modes.\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 135, \"time_taken\": \"0:00:04.466957\"}",
-        "message_id": "guest16082024103934",
-        "timestamp": "16082024103942",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you clarify where you would like the neon field to be added within the app? For example, is it on the homepage, product page, or checkout page?\", \"option1\": \"On the homepage\", \"option2\": \"On the product page\"}, {\"question 2\": \"What type of content or function will this neon field serve? Is it for decorative purposes or does it hold interactive elements like a form or button?\", \"option1\": \"It's for decorative purposes\", \"option2\": \"It holds interactive elements\"}], \"input_token_count\": 270, \"output_token_count\": 122, \"time_taken\": \"0:00:04.009634\"}",
-        "message_id": "guest16082024103934",
-        "timestamp": "16082024103942",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Okay, adding a field with neon.",
-        "message_id": "guest16082024103934",
-        "timestamp": "16082024103938",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a field with neon",
-        "message_id": "guest16082024103934",
-        "timestamp": "16082024103937",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a text input field labeled 'Teio'\", \"checked\": true}, {\"feature\": \"Implement form validation for the new 'Teio' field\", \"checked\": true}, {\"feature\": \"Add placeholder text to guide the user on what to enter in the 'Teio' field\", \"checked\": true}, {\"feature\": \"Include an information icon next to the 'Teio' field with a tooltip explaining its purpose\", \"checked\": false}, {\"feature\": \"Enable autocomplete for the 'Teio' field based on previous entries\", \"checked\": false}, {\"feature\": \"Integrate a clear button within the 'Teio' field to easily erase typed input\", \"checked\": false}], \"input_token_count\": 499, \"output_token_count\": 147, \"time_taken\": \"0:00:05.409277\"}",
-        "message_id": "guest16082024103459",
-        "timestamp": "16082024103508",
-        "component_file_name": "simple_hero_component_1723803749",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In the conversation, the user requested several features to be added to an application, including buttons and fields for \"Eyes,\" \"Free,\" \"Forget Password,\" \"email,\" and \"password.\" The AI assistant acknowledged each request and confirmed it was working on these additions. The user was offered a checklist of potential features to implement, which included items such as adding pop-up guides, customizable user profiles, and social sharing buttons. Additionally, the AI provided options for the placement and functionality of buttons like \"Free\" and \"Forget Password,\" seeking the user's preferences. Throughout the conversation, the user also expressed interest in features for navigation and security, including real-time chat support and multi-factor authentication. At the conclusion, the user asked about adding a button for \"Tie's,\" to which the AI responded with a request for more project details.",
-        "timestamp": "16082024104237",
-        "message_id": "guest16082024104234"
+        "content": "In the conversation, the user interacted with the AI assistant to implement various features and UI elements in an application. The user requested the addition of a neon field, which the AI acknowledged, and subsequently asked about the placement and function of the neon field within the app. The user agreed to implement it for decorative purposes, and the AI noted this.\n\nFurthermore, the user requested to add a text input field labeled \"Teio\", which included form validation and placeholder text, while options for integrated features such as autocomplete and an info icon were offered but not checked. The user also asked to add a \"Watch Video Demonstration\" button and a \"Size Guide,\" along with features like a \"Favorites\" button.\n\nThe dialogue progressed with the user requesting a button titled \"Eyes\" and the AI confirming its addition. Features for a \"Forget Everything\" form were suggested by the AI. The user continued with more requests, including a \"Contact Us\" button, a \"Free\" button, and a \"Forget Password\" field, with the AI acknowledging each request.\n\nQuestions regarding the placement and functionality of certain buttons were posed, such as where to place the \"Free\" button and its intended action. The conversation then shifted to the user adding a user registration and login form, including options for password strength and email verification, with corresponding features offered.\n\nAt each point, the AI provided lists of additional potential features, creating a collaborative feedback loop where the user selected desirable options and the AI took note of each selection. The assistant requested further clarification on the project at the end, indicating a desire to understand the broader context of the user's requests.",
+        "timestamp": "16082024105115",
+        "message_id": "guest16082024105107"
     }
 ]
