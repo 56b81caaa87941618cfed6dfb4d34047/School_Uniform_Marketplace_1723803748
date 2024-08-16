@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Tie's' button to be positioned in the app?\", \"option1\": \"On the main navigation menu\", \"option2\": \"On the specific school uniform page\"}, {\"question 2\": \"What action do you want to happen when a user clicks on the 'Tie's' button?\", \"option1\": \"Open a pop-up with tie options\", \"option2\": \"Navigate to a new page with tie selections\"}], \"input_token_count\": 272, \"output_token_count\": 108, \"time_taken\": \"0:00:03.934673\"}",
         "timestamp": "16082024102504",
         "message_id": "guest16082024102456"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Socks'\", \"checked\": true}, {\"feature\": \"Include a 'Shirts' category button\", \"checked\": true}, {\"feature\": \"Implement a searchable dropdown for size selection\", \"checked\": false}, {\"feature\": \"Add a 'Featured Uniform Sets' section on the homepage\", \"checked\": true}, {\"feature\": \"Incorporate a 'Recently Viewed' section for quick navigation\", \"checked\": false}, {\"feature\": \"Enable a customization option for badges and logos on uniforms\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 130, \"time_taken\": \"0:00:04.652359\"}",
+        "timestamp": "16082024102504",
+        "message_id": "guest16082024102456"
     }
 ]
