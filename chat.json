@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text north East",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110542",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Could you specify where you want the 'charge' field to be added within the app? For clarity, are you requesting its placement on a specific page or section?\", \"option1\": \"On the checkout page\", \"option2\": \"In the user profile section\"}, {\"question 2\": \"Is the 'charge' field meant to be a static value displayed to all users or should it dynamically update based on user actions or selections?\", \"option1\": \"Static value displayed to all users\", \"option2\": \"Dynamically updates based on user actions or selections\"}], \"input_token_count\": 270, \"output_token_count\": 130, \"time_taken\": \"0:00:04.509650\"}",
         "message_id": "guest16082024105933",
