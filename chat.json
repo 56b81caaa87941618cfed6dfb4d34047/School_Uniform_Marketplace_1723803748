@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a field with huia",
+        "message_id": "guest16082024111929",
+        "timestamp": "16082024111932",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great! Adding a field with \"TIOS\" now.",
         "message_id": "guest16082024111805",
