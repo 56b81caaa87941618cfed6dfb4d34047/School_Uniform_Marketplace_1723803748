@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Eyes",
+        "message_id": "guest16082024103343",
+        "timestamp": "16082024103346",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! Working on adding a form with \"Forget Everything\" field.",
         "message_id": "guest16082024103206",
