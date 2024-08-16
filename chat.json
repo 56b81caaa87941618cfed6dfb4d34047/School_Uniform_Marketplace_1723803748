@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a form with email and password.",
+        "message_id": "guest16082024102537",
+        "timestamp": "16082024102540",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a form with email and password",
         "message_id": "guest16082024102537",

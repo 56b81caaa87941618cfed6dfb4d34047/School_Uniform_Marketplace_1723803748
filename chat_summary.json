@@ -36,5 +36,11 @@
         "content": "add a form with email and password",
         "timestamp": "16082024102539",
         "message_id": "guest16082024102537"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a form with email and password.",
+        "timestamp": "16082024102540",
+        "message_id": "guest16082024102537"
     }
 ]
