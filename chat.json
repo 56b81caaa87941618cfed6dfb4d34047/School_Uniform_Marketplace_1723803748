@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free' button to be positioned within the app's interface?\", \"option1\": \"On the main screen, prominently displayed\", \"option2\": \"In the uniform item details section, next to the price\"}, {\"question 2\": \"What action should occur when a user clicks on the 'Free' button?\", \"option1\": \"Direct user to a form for requesting a free uniform sample\", \"option2\": \"Show a pop-up explaining the terms and conditions of the free uniform offer\"}], \"input_token_count\": 271, \"output_token_count\": 120, \"time_taken\": \"0:00:03.909901\"}",
+        "message_id": "guest16082024103134",
+        "timestamp": "16082024103142",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Free",
         "message_id": "guest16082024103134",
