@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically do you want the field with zero to be added in the app? Can you provide the section or page details?\", \"option1\": \"On the main page, next to the existing uniform categories.\", \"option2\": \"In the checkout section, allowing users to input '0' for quantity adjustments.\"}, {\"question 2\": \"Is the field for 'zero' intended to allow users to input or select '0' for specific purposes such as removing an item from their cart, or is it for something else?\", \"option1\": \"Yes, it's for users to select '0' to remove an item from their cart or wishlist.\", \"option2\": \"No, it's for a different purpose. (Please specify)\"}], \"input_token_count\": 270, \"output_token_count\": 165, \"time_taken\": \"0:00:04.233649\"}",
+        "message_id": "guest16082024105107",
+        "timestamp": "16082024105115",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive sizing guide to ensure correct uniform size selection\", \"checked\": true}, {\"feature\": \"Real-time inventory updates to display available sizes and quantities\", \"checked\": false}, {\"feature\": \"Option to filter uniforms by category (e.g., grade, gender, season)\", \"checked\": true}, {\"feature\": \"Virtual try-on feature using AR for a better fit assurance\", \"checked\": false}, {\"feature\": \"Personalization options (e.g., adding name or initials on the uniform)\", \"checked\": true}, {\"feature\": \"Feedback section for users to report issues or suggest improvements\", \"checked\": false}], \"input_token_count\": 224, \"output_token_count\": 142, \"time_taken\": \"0:00:03.728394\"}",
         "message_id": "guest16082024105107",
