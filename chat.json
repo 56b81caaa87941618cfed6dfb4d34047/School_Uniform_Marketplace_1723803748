@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Noted, adding a new text field for \"Forget Password\".",
+        "message_id": "guest16082024102812",
+        "timestamp": "16082024102815",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a another field with text Forget Password",
         "message_id": "guest16082024102812",

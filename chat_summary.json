@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723803749",
+        "role": "chat_acknowledge",
+        "content": "Noted, adding a new text field for \"Forget Password\".",
+        "message_id": "guest16082024102812",
+        "timestamp": "16082024102815",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a button with text Tie's",
-        "timestamp": "16082024102459",
-        "message_id": "guest16082024102456"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Got it, adding a button with the text \"Tie's\".",
-        "timestamp": "16082024102500",
-        "message_id": "guest16082024102456"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Tie's' button to be positioned in the app?\", \"option1\": \"On the main navigation menu\", \"option2\": \"On the specific school uniform page\"}, {\"question 2\": \"What action do you want to happen when a user clicks on the 'Tie's' button?\", \"option1\": \"Open a pop-up with tie options\", \"option2\": \"Navigate to a new page with tie selections\"}], \"input_token_count\": 272, \"output_token_count\": 108, \"time_taken\": \"0:00:03.934673\"}",
-        "timestamp": "16082024102504",
-        "message_id": "guest16082024102456"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Socks'\", \"checked\": true}, {\"feature\": \"Include a 'Shirts' category button\", \"checked\": true}, {\"feature\": \"Implement a searchable dropdown for size selection\", \"checked\": false}, {\"feature\": \"Add a 'Featured Uniform Sets' section on the homepage\", \"checked\": true}, {\"feature\": \"Incorporate a 'Recently Viewed' section for quick navigation\", \"checked\": false}, {\"feature\": \"Enable a customization option for badges and logos on uniforms\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 130, \"time_taken\": \"0:00:04.652359\"}",
-        "timestamp": "16082024102504",
-        "message_id": "guest16082024102456"
-    },
-    {
-        "role": "user",
-        "content": "add a form with email and password",
-        "timestamp": "16082024102539",
-        "message_id": "guest16082024102537"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Working on adding a form with email and password.",
-        "timestamp": "16082024102540",
-        "message_id": "guest16082024102537"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Password strength meter to ensure strong passwords\", \"checked\": true}, {\"feature\": \"Email verification system to validate email addresses\", \"checked\": true}, {\"feature\": \"Remember me option for easier login in the future\", \"checked\": false}, {\"feature\": \"Two-factor authentication for enhanced security\", \"checked\": false}, {\"feature\": \"Forgot password? link to recover accounts\", \"checked\": true}, {\"feature\": \"Visibility toggle to show/hide password entry\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 117, \"time_taken\": \"0:00:04.646933\"}",
-        "timestamp": "16082024102544",
-        "message_id": "guest16082024102537"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to enable users to register for a new account or to log in using their existing credentials?\", \"option1\": \"Enable users to register for a new account\", \"option2\": \"Allow users to log in with existing credentials\"}, {\"question 2\": \"Should the password field include specific requirements (e.g., minimum length, inclusion of numbers/symbols) for enhanced security, or would you prefer a more basic setup?\", \"option1\": \"Include specific requirements for enhanced security\", \"option2\": \"Prefer a basic setup without specific requirements\"}], \"input_token_count\": 272, \"output_token_count\": 130, \"time_taken\": \"0:00:05.130312\"}",
-        "timestamp": "16082024102545",
-        "message_id": "guest16082024102537"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a another field with text Forget Password",
+        "message_id": "guest16082024102812",
+        "timestamp": "16082024102815",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want the form to enable users to register for a new account or to log in using their existing credentials?\", \"option1\": \"Enable users to register for a new account\", \"option2\": \"Allow users to log in with existing credentials\"}, {\"question 2\": \"Should the password field include specific requirements (e.g., minimum length, inclusion of numbers/symbols) for enhanced security, or would you prefer a more basic setup?\", \"option1\": \"Include specific requirements for enhanced security\", \"option2\": \"Prefer a basic setup without specific requirements\"}], \"input_token_count\": 272, \"output_token_count\": 130, \"time_taken\": \"0:00:05.130312\"}",
+        "message_id": "guest16082024102537",
+        "timestamp": "16082024102545",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Password strength meter to ensure strong passwords\", \"checked\": true}, {\"feature\": \"Email verification system to validate email addresses\", \"checked\": true}, {\"feature\": \"Remember me option for easier login in the future\", \"checked\": false}, {\"feature\": \"Two-factor authentication for enhanced security\", \"checked\": false}, {\"feature\": \"Forgot password? link to recover accounts\", \"checked\": true}, {\"feature\": \"Visibility toggle to show/hide password entry\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 117, \"time_taken\": \"0:00:04.646933\"}",
+        "message_id": "guest16082024102537",
+        "timestamp": "16082024102544",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a form with email and password.",
+        "message_id": "guest16082024102537",
+        "timestamp": "16082024102540",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a form with email and password",
+        "message_id": "guest16082024102537",
+        "timestamp": "16082024102539",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Socks'\", \"checked\": true}, {\"feature\": \"Include a 'Shirts' category button\", \"checked\": true}, {\"feature\": \"Implement a searchable dropdown for size selection\", \"checked\": false}, {\"feature\": \"Add a 'Featured Uniform Sets' section on the homepage\", \"checked\": true}, {\"feature\": \"Incorporate a 'Recently Viewed' section for quick navigation\", \"checked\": false}, {\"feature\": \"Enable a customization option for badges and logos on uniforms\", \"checked\": false}], \"input_token_count\": 226, \"output_token_count\": 130, \"time_taken\": \"0:00:04.652359\"}",
+        "message_id": "guest16082024102456",
+        "timestamp": "16082024102504",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Tie's' button to be positioned in the app?\", \"option1\": \"On the main navigation menu\", \"option2\": \"On the specific school uniform page\"}, {\"question 2\": \"What action do you want to happen when a user clicks on the 'Tie's' button?\", \"option1\": \"Open a pop-up with tie options\", \"option2\": \"Navigate to a new page with tie selections\"}], \"input_token_count\": 272, \"output_token_count\": 108, \"time_taken\": \"0:00:03.934673\"}",
+        "message_id": "guest16082024102456",
+        "timestamp": "16082024102504",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, adding a button with the text \"Tie's\".",
+        "message_id": "guest16082024102456",
+        "timestamp": "16082024102500",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Tie's",
+        "message_id": "guest16082024102456",
+        "timestamp": "16082024102459",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "16082024102815",
         "message_id": "guest16082024102812"
     }
