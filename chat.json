@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Color picker for uniform customization\", \"checked\": true}, {\"feature\": \"Virtual try-on feature for uniforms\", \"checked\": false}, {\"feature\": \"Size recommendation tool based on age and height inputs\", \"checked\": false}, {\"feature\": \"User profile section to save uniform sizes and preferences\", \"checked\": true}, {\"feature\": \"Shopping cart with 'save for later' option\", \"checked\": false}, {\"feature\": \"Feedback section for user reviews and suggestions\", \"checked\": true}], \"input_token_count\": 226, \"output_token_count\": 118, \"time_taken\": \"0:00:07.016095\"}",
+        "message_id": "guest16082024105407",
+        "timestamp": "16082024105418",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Will add a field for Eyedrops, thank you.",
         "message_id": "guest16082024105407",
