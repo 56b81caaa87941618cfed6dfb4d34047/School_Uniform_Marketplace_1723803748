@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Working on adding a button with text \"north East\".",
+        "message_id": "guest16082024110539",
+        "timestamp": "16082024110542",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text north East",
         "message_id": "guest16082024110539",
