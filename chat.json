@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, adding a field with neon.",
+        "message_id": "guest16082024103934",
+        "timestamp": "16082024103938",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with neon",
         "message_id": "guest16082024103934",
