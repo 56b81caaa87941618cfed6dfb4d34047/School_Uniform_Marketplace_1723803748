@@ -62,5 +62,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd another field with ARRAOW"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nadd a nother field with yup"
     }
 ]
