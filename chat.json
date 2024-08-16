@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Add a field with charge",
+        "message_id": "guest16082024105933",
+        "timestamp": "16082024105937",
+        "component_file_name": "simple_hero_component_1723803749",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I can add a field for charging.",
         "message_id": "guest16082024105933",
