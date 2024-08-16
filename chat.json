@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add the field with triwa.",
+        "message_id": "guest16082024112623",
+        "timestamp": "16082024112626",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a field with triwa",
         "message_id": "guest16082024112623",
